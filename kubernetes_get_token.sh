@@ -1,7 +1,5 @@
-/usr/local/bin/token.sh
-controlplane $ cat `!!`
-cat `which token.sh`
 #!/bin/bash
+# path: /usr/local/bin/token.sh
 export COLOR_RESET='\e[0m'
 export COLOR_LIGHT_GREEN='\e[0;49;32m' 
 
